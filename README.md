@@ -24,3 +24,5 @@ data class WeatherUiState(
 ```
 Miten API-key on tallennettu
 - API-key on tallennettu local.properties tiedostoon josta se siirtyy sitten generoituun BuildConfig tiedostoon mistä Retrofit löytää avaimen.
+
+Demovideo: https://www.youtube.com/watch?v=HHRG1srBH5A
